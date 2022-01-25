@@ -1,5 +1,5 @@
 import img from './user.png'
-import './user.css'
+import './User.css'
 
 function user (props) {
     return (
